@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there👋
+### My name is Shady and I'm a Data analyst who interested in using Python, Excel and Tableau !
 
 -🔭 I’m currently working on Data analysis projects by Excel, python and tablaue
 
